@@ -7,6 +7,8 @@
 ********************************************
 */
 
+
+/*
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +19,7 @@ using System.Threading.Tasks;
 
 namespace myThirdProj
 {
-    class BOWForApartmentWindow
+    class BOMForApartmentWindow
     {
         static void Main(string[] args)
         {
@@ -43,3 +45,4 @@ namespace myThirdProj
         }
     }
 }
+*/
